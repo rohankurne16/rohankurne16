@@ -6,9 +6,7 @@
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
   
 </div>
 
@@ -41,30 +39,20 @@
 
 <div align="center">
   
-  ### 📊 Rohan's GitHub Stats
-  
   ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
   
-  <br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
   
-  ### 📚 Top Languages
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8)
-  
-  <br/>
-  
-  ### 🔥 GitHub Streak
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
   
 </div>
 
 ---
 
-## 🧠 Skill Distribution
+## 🧠 Skill Distribution (Radar / Donut style)
 
 ```mermaid
-graph LR
+graph TD
     A[Core Java] -->|85%| B[OOP & DSA]
     C[Spring Boot] -->|75%| D[REST APIs]
     E[Hibernate] -->|70%| F[JPA & ORM]
