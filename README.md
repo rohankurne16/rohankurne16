@@ -1,60 +1,69 @@
-# 💼 Rohan Kurne — Java Developer
+# 👋 Hi, I'm Rohan Kurne
 
-<div align="center">
-  
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-  [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  
-</div>
+🎯 **Java Developer** | ⚙️ **Backend Enthusiast** | 🌍 **Heritage & Community Leader**
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-> **Java Developer** with a focus on backend systems, clean architecture, and real-world problem solving.  
-> Also a **community leader** — founded heritage drives and led trekking expeditions.
+I'm a passionate Java developer with a strong interest in building efficient, scalable backend systems.  
+Beyond coding, I lead community-driven heritage initiatives and trekking expeditions — blending logic with leadership.
 
-- 🔹 Core expertise: **Java 8/11**, **Spring Boot**, **REST APIs**, **Hibernate/JPA**
-- 🔹 Currently upskilling: **Microservices**, **Docker**, **AWS**
-- 🔹 Leadership: **20+ heritage preservation drives** | **Multi-day trekking expeditions**
-
----
-
-## 📊 Technical Skills (with proficiency graphs)
-
-| Skill Area | Technologies | Proficiency |
-|------------|--------------|-------------|
-| **Languages** | Java, SQL, JavaScript | ████████░░ 80% |
-| **Backend** | Spring Boot, Hibernate, JPA | ███████░░░ 75% |
-| **Databases** | MySQL, PostgreSQL | ██████░░░░ 65% |
-| **Dev Tools** | Git, Maven, Postman, IntelliJ | ███████░░░ 70% |
-| **Soft Skills** | Leadership, Team Coordination, Planning | █████████░ 90% |
+- 🔭 I’m currently working on **Java & Spring Boot** projects
+- 🌱 I’m learning **Microservices**, **Hibernate**, and **REST APIs**
+- 👯 I’m looking to collaborate on **open source Java projects**
+- 💬 Ask me about **Java, OOP, DSA, or heritage conservation**
+- 📫 How to reach me: _[Add your email / LinkedIn / Twitter]_
+- ⚡ Fun fact: I’ve led 20+ heritage preservation drives and multiple trekking expeditions!
 
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-  ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-  
-</div>
+- **Languages:** Java, SQL, HTML/CSS, JavaScript
+- **Frameworks:** Spring Boot, Hibernate
+- **Tools:** Git, Maven, PostgreSQL, MySQL, Postman
+- **Concepts:** OOP, Data Structures, REST APIs, MVC
 
 ---
 
-## 🧠 Skill Distribution (Radar / Donut style)
+## 🚀 Featured Projects
 
-```mermaid
-graph TD
-    A[Core Java] -->|85%| B[OOP & DSA]
-    C[Spring Boot] -->|75%| D[REST APIs]
-    E[Hibernate] -->|70%| F[JPA & ORM]
-    G[Leadership] -->|90%| H[Team Mgmt]
-    I[SQL] -->|65%| J[Joins & Optimization]
+| Project | Description |
+|--------|-------------|
+| 📚 **Library Management System** | A Spring Boot + Hibernate app for managing books, users, and transactions |
+| 🛒 **E‑Commerce Backend** | REST APIs for product, cart, and order management |
+| 🏞️ **Durganvardhan Initiative** | Community platform to organize & track heritage preservation events |
+
+> *(Add links to your actual GitHub repos here)*
+
+---
+
+## 🌟 Leadership & Community
+
+- **Founder** – Durganvardhan Heritage Initiative  
+  Organized 20+ cleanliness & preservation drives at historical forts.
+
+- **Trekking Expedition Lead**  
+  Route planning, safety coordination, and team leadership for multi-day treks.
+
+- **Volunteer** – Historical heritage awareness campaigns.
+
+---
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/rohankurne](https://linkedin.com/in/rohankurne)
+- Email: rohan.kurne@example.com
+
+---
+
+⭐️ *"Write code that outlasts the mountains — strong, clean, and meaningful."*
