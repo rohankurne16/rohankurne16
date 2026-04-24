@@ -41,11 +41,21 @@
 
 <div align="center">
   
+  ### 📊 Rohan's GitHub Stats
+  
   ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
+  <br/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+  ### 📚 Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8)
+  
+  <br/>
+  
+  ### 🔥 GitHub Streak
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
